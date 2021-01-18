@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "594902332588",
+    "project_id": "semesterproject-da17b",
+    "storage_bucket": "semesterproject-da17b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:594902332588:android:f4f870e23922feb1c01b09",
+        "android_client_info": {
+          "package_name": "com.example.grocery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "594902332588-1a97h838m0clgcdj8ckrftp7nrf7bk4j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFqw9V07lHYi4hBTVAoQTW-A9TqjmNJhU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "594902332588-1a97h838m0clgcdj8ckrftp7nrf7bk4j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

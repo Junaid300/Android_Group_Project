@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">Recipe App</string>
+    <string name="Registration_topName">Registration Form</string>
+    <string name="Registration_createAccount">Create New Account</string>
+    <string name="Registration_fullName">Full Name</string>
+    <string name="Registration_email">Email</string>
+    <string name="Registration_phoneNumber">Phone Number</string>
+    <string name="Registration_password">Password</string>
+    <string name="Registration_alreadyaccount">Already Have a account? Login Here</string>
+    <string name="Registration">Register</string>
+
+    <string name="Login_in_Register_Here">Not Register?Register Here</string>
+    <string name="login_">Login Here</string>
+    <string name="Login">Login</string>
+    <string name="Logout">LogOut</string>
+    <string name="forgetPassword">Forget Password</string>
+    <string name="username">Name</string>
+    <string name="userphone">Phone Number</string>
+    <string name="email">User Email</string>
+    <string name="Product_1_Name">Pizza</string>
+    <string name="RecepieName">Recepie</string>
+    <string name="cheeziem">Ingridients</string>
+    <string-array name="foodname">
+        <item>Burger</item>
+        <item>Pizza</item>
+        <item>Biryani</item>
+        <item>Pasta</item>
+        <item>Chicken</item>
+        <item>Double Level Burger</item>
+    </string-array>
+    <string-array name="price">
+        <item>500</item>
+        <item>1000</item>
+        <item>230</item>
+        <item>400</item>
+        <item>200</item>
+        <item>350</item>
+    </string-array>
+    <string-array name="description">
+        <item>500</item>
+        <item>1000</item>
+        <item>230</item>
+        <item>400</item>
+        <item>200</item>
+        <item>350</item>
+    </string-array>
+
+</resources>
